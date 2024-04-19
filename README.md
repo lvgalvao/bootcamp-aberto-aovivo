@@ -4,7 +4,7 @@ Esse é um projeto de portfolio, onde integramos 3 fontes de dados (GA4, Faceboo
 
 Essa e a arquitetura do projeto
 
-![imagem](pics\foto.png)
+![pics](https://github.com/lvgalvao/bootcamp-aberto-aovivo/blob/main/pics/foto.png?raw=true)
 
 Integramos via Airbyte, salvamos em um postgres, processamos via DBT-Core e orquestramos via Airflow
 
